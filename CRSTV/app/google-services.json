@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "666283160163",
+    "firebase_url": "https://crstv-6dacd.firebaseio.com",
+    "project_id": "crstv-6dacd",
+    "storage_bucket": "crstv-6dacd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666283160163:android:2e2ff8fcba4eaf9d",
+        "android_client_info": {
+          "package_name": "crstv.app.com.crstv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666283160163-7ou56asrga50rsn7dmflvkopmdq0jnvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "crstv.app.com.crstv",
+            "certificate_hash": "1f548f3745d43af6567ad639cbe373841edebd09"
+          }
+        },
+        {
+          "client_id": "666283160163-dd98derbvnlfeqi4fmtilekj6dgcfj5s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "666283160163-8e6gv733kucu13rtkeu2lnfr88s2j454.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJvNECwia95TenBR9ILou0ppJvTXud9k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

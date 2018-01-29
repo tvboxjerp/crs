@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348700845802",
+    "project_id": "crs-tv"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348700845802:android:207c7d388d5c5147",
+        "android_client_info": {
+          "package_name": "com.app.crstv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348700845802-kpjn52hjim4j0gql4fgruhhvaa35gsb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbKPJxEJhtpbpDqNqWa3gBq35iwNCI888"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

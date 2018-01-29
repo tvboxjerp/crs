@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CRS TV</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">CRS TV</string>
+    <string name="nav_header_subtitle">La nueva era de la television</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="action_search">Buscar</string>
+    <string name="submitted">Buscando</string>
+    <string name="action_refresh">Recargar lista</string>
+    <string name="no_found">Informacion no encontrada</string>
+    <string name="admob_id">ca-app-pub-3816485746733507~9381409118</string>
+    <string name="ad_unit_id">ca-app-pub-3816485746733507/1265570781</string>
+    <string name="ad_banner_id">ca-app-pub-3816485746733507/2669441358</string>
+    <string name="title_activity_movie">MovieActivity</string>
+</resources>
